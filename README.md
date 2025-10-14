@@ -11,3 +11,8 @@
 See [docs/meen-overview.md](docs/meen-overview.md) for a Turkish overview of the
 Mediterranean Environmental and Economic Network (MEEN), including its mission,
 organizational structure, membership criteria, and focus areas.
+
+You can also explore a static concept website built with the same içerik under
+[website/index.html](website/index.html). To preview it locally, run a simple
+HTTP server such as `python -m http.server` from the `website` directory and
+open `http://localhost:8000` in your browser.
